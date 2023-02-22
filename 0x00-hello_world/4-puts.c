@@ -1,8 +1,13 @@
-/* C program to show use of puts */
-/* Value should end with 0 */
 #include <stdio.h>
+
+/**
+ * main - Entry point
+ * Description: prints "\"Programming is like building a multilingual puzzle"
+ * Return: 0
+ */
+
 int main(void)
 {
-  puts("Programming is like building a multilingual puzzle \n");
-  return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
