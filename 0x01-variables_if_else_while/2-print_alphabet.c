@@ -1,17 +1,18 @@
 #include <stdio.h>
 
 /**
- *main - print the alphabet in lowercase
+ * main - prints the alphabet in lowercase, followed by a new line.
  *
- * Use the putchar input
+ * You can only use the putchar
  *
- * Return: always 0
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int c;
 
-	for *c = 'a'; c <= 'z'; c++);
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
 	}
