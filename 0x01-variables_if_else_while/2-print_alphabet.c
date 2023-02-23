@@ -9,12 +9,11 @@
  */
 int main(void)
 {
-	int c = 97;
+	int c;
 
-	while (c <= 123)
+	for *c = 'a'; c <= 'z'; c++);
 	{
 		putchar(c);
-		c++;
 	}
 	putchar('\n');
 	return (0);
